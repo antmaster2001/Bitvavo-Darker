@@ -1,0 +1,101 @@
+.full {
+	background-color: #1a1f27;
+}
+.nav {
+	background-color: #0e111a!important;
+}
+
+body {
+	color: #ccd0dc!important;
+}
+
+.contentBlock {
+	background-color: #0e111a!important;
+}
+
+rect {
+	fill: #0e111a!important;
+}
+
+.subNav {
+	background-color: #0e111a!important;
+	border: 1px solid #373d47!important;
+}
+
+.subNavItem {
+	border-bottom: none!important;
+}
+
+.logo {
+	color: white!important;
+}
+
+.red {
+	background-color: #ef5350!important;
+	color: white!important;
+}
+
+.green {
+	background: #26a69a!important;
+	color: white!important;
+}
+
+.affiliate-promo {
+	background-color:  #26a69a!important;
+	color: white!important;
+}
+
+tbody>tr:hover {
+	background: none!important;
+	background-color: #283347!important;
+    -webkit-transition: all .1s;
+	transition: all .1s;
+	border-color: #373d47!important;
+}
+
+.top {
+	background-color: #262D38!important;
+}
+
+.router-link-active {
+	background-color: #262D38!important;
+}
+
+.tabs .router-link-active, .tabs li:hover>a {
+    background-color: #21262f!important;
+}
+
+.trade .toggleTradeActive {
+    background-color: #21262f!important;
+}
+
+.buttonDisabled {
+	background-color: #21262f!important;
+}
+
+input {
+	background-color: #21262f!important;
+	border-color: #373d47!important;
+	color: white!important;
+}
+
+td, th {
+	border-bottom:2px solid #373d47!important;
+}
+
+.msgBlue {
+	background-color: #373d47!important;
+	color: white!important;
+	width: 1em!important;
+}
+
+.tooltip {
+	background-color: #778dbd!important;
+}
+
+/* All color codes 
+
+body background: #262D38
+Green color: #26a69a
+Red color: #ef5350
+*/
