@@ -4,19 +4,19 @@
 
 ![screenshot of home page](./img/Screenshot_102.png)
 
-##Installation
+## Installation
 
  To install Bitvavo-Darker go to the following URL: [`Bitvavo-Darker`](https://chrome.google.com/webstore/detail/bitvavo-darker/onmgeopeamjlblpjlkleilnbclfdnkol)
 
 
 When on this page press the ``Add to Chrome`` button and Bitvavo-Darker will be installed :clap:
 
-##Features 
+## Features 
 - Dark theme :zap:
 
-##Contributing
-####adding code
+## Contributing
+#### adding code
 Just submit a pull request :smile:
 
-##Author
+## Author
 Made with :heart: by [antmaster2001](https://github.com/antmaster2001)
