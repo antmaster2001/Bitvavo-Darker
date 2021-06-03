@@ -1,0 +1,25 @@
+{
+    "name": "Bitvavo Darker",
+    "description": "Turns the bitvavo main dashboard into a nice dark theme.",
+    "version": "0.0.0.2",
+    "manifest_version": 2,
+    "icons": {
+        "16": "./img/shield.png",
+        "48": "./img/shield.png",
+        "128": "./img/shield.png"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://account.bitvavo.com/dashboard",
+                "https://account.bitvavo.com/currency/*"
+            ],
+            "js": [
+                "./src/content.js"
+            ],
+            "css": [
+                "./src/styles/style.css"
+            ]
+        }
+    ]
+}
