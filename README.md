@@ -13,6 +13,7 @@ When on this page press the ``Add to Chrome`` button and Bitvavo-Darker will be 
 
 ## Features 
 - Dark theme :zap:
+- Advanced screen easy redirect button 🔮
 
 ## Contributing
 #### adding code
