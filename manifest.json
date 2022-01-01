@@ -1,7 +1,7 @@
 {
     "name": "Bitvavo Darker",
     "description": "Turns the bitvavo main dashboard into a nice dark theme.",
-    "version": "1.0.0.0",
+    "version": "2.1.0.0",
     "manifest_version": 3,
     "icons": {
         "16": "./img/shield.png",
