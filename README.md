@@ -20,4 +20,4 @@ When on this page press the ``Add to Chrome`` button and Bitvavo-Darker will be 
 Just submit a pull request :smile:
 
 ## Author
-Made with :heart: by [antmaster2001](https://github.com/antmaster2001)
+Made with :heart: by [antmaster2001](https://www.antmaster2001.nl/)
