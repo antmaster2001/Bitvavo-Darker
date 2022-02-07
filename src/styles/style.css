@@ -19,11 +19,7 @@ body {
 	color: #dcd8cc!important;
 }
 
-.contentBlock {
-	background-color: #0e111a!important;
-}
-
-.publicBlock {
+.contentBlock, .publicBlock, .successHolder, .loader-private, .loader-public{
 	background-color: #0e111a!important;
 }
 
@@ -141,7 +137,6 @@ td, th {
 }
 
 /* All color codes 
-
 body background: #262D38
 Green color: #26a69a
 Red color: #ef5350
